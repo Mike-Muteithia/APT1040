@@ -1,0 +1,23 @@
+HTML Attributes
+  - provide additional information about an HTML element
+
+  - Example:
+      - <a href="https://www.example.com">Visit Website</a>
+  - href is an Attribute
+  - its value is : https://www.example.com
+
+Lists
+    - Three types of lists
+        -- Ordered
+            --- <ol>
+                    <li><li>
+                    <li><li>
+                    <li><li>
+                    <li><li>
+                </ol>
+
+        -- Unordered
+
+        -- Definition
+    
+
