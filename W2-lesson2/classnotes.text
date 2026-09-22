@@ -1,0 +1,11 @@
+# Image Attributes
+# Styles Atrributes
+# Colors
+  - Hexadecimal Values
+    -- 16 symbols
+    -- 0......aa......f
+    -- Pattern RGB #RRGGBB
+    -- Example:
+        <p style:"color: #ff0000">
+        
+        </p>
