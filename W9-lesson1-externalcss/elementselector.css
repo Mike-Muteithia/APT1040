@@ -1,0 +1,32 @@
+/* CSS rules */
+/* 
+    selector {
+        property1: value1;
+        property2: value2;
+        property3: value3;
+        .....
+    }
+*/
+
+/* your comments here */
+
+
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: blue;
+  size: 42px;
+  text-align: center;
+}
+
+p {
+  color: red;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
