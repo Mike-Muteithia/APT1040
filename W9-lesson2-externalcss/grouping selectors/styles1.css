@@ -1,0 +1,25 @@
+h1, h2, p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  text-decoration: overline;
+  text-transform: uppercase;
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  text-transform: capitalize;
+  color: brown;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+/* DRY -> Don't Repeat Yourself */
+

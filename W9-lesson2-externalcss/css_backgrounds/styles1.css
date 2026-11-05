@@ -1,0 +1,37 @@
+body {
+  background-color: bisque;
+  background-image: url("anders-jilden-cYrMQA7a3Wc-unsplash.jpg");
+  background-size: cover;
+}
+
+h1, h2, p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  text-decoration: overline;
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+  background-color: #ff0000;
+}
+
+h2 {
+  font-size: 28px;
+  text-transform: capitalize;
+  color: brown;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+/* ID selector */
+#clients {
+  background-color: #808086;
+}
+
+/* DRY -> Don't Repeat Yourself */
+
